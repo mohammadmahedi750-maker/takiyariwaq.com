@@ -1,0 +1,482 @@
+[
+  {
+    "id": "espresso",
+    "en": "Black Coffee",
+    "ar": "إسبريسو",
+    "price": 9,
+    "category": "black",
+    "image": "assets/espresso.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "americano",
+    "en": "Americano",
+    "ar": "أمريكانو",
+    "price": 14,
+    "category": "black",
+    "image": "assets/americano.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "ristretto",
+    "en": "Ristretto",
+    "ar": "ريستريتو",
+    "price": 10,
+    "category": "black",
+    "image": "assets/ristretto.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "lungo",
+    "en": "Lungo",
+    "ar": "لونغو",
+    "price": 11,
+    "category": "black",
+    "image": "assets/lungo.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "v60",
+    "en": "V60",
+    "ar": "قهوة V60",
+    "price": 15,
+    "category": "black",
+    "image": "assets/v60.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "french-press",
+    "en": "French Press",
+    "ar": "فرنش برس",
+    "price": 17,
+    "category": "black",
+    "image": "assets/french-press.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "turkish-coffee",
+    "en": "Turkish Coffee",
+    "ar": "قهوة تركية",
+    "price": 8,
+    "category": "black",
+    "image": "assets/turkish-coffee.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "saudi-coffee",
+    "en": "Saudi Coffee",
+    "ar": "قهوة سعودية",
+    "price": 8,
+    "category": "black",
+    "image": "assets/saudi-coffee.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "cappuccino",
+    "en": "Cappuccino",
+    "ar": "كابتشينو",
+    "price": 14,
+    "category": "hot",
+    "image": "assets/cappuccino.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "latte",
+    "en": "Latte",
+    "ar": "لاتيه",
+    "price": 13,
+    "category": "hot",
+    "image": "assets/latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "flat-white",
+    "en": "Flat White",
+    "ar": "فلات وايت",
+    "price": 13,
+    "category": "hot",
+    "image": "assets/flat-white.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "macchiato",
+    "en": "Macchiato",
+    "ar": "ماكياتو",
+    "price": 12,
+    "category": "hot",
+    "image": "assets/macchiato.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "mocha",
+    "en": "Mocha",
+    "ar": "موكا",
+    "price": 15,
+    "category": "hot",
+    "image": "assets/mocha.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "cortado",
+    "en": "Cortado",
+    "ar": "كورتادو",
+    "price": 13,
+    "category": "hot",
+    "image": "assets/cortado.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "piccolo-latte",
+    "en": "Piccolo Latte",
+    "ar": "بيكولو لاتيه",
+    "price": 12,
+    "category": "hot",
+    "image": "assets/piccolo-latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "spanish-latte",
+    "en": "Spanish Latte",
+    "ar": "سبانيش لاتيه",
+    "price": 14,
+    "category": "hot",
+    "image": "assets/spanish-latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "today-coffee",
+    "en": "Today Coffee",
+    "ar": "قهوة اليوم",
+    "price": 8,
+    "category": "hot",
+    "image": "assets/today-coffee.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "matcha-latte",
+    "en": "Matcha Latte",
+    "ar": "ماتشا لاتيه",
+    "price": 14,
+    "category": "hot",
+    "image": "assets/matcha-latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-coffee",
+    "en": "Iced Coffee",
+    "ar": "قهوة مثلجة",
+    "price": 11,
+    "category": "iced",
+    "image": "assets/iced-coffee.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-americano",
+    "en": "Iced Americano",
+    "ar": "أمريكانو مثلج",
+    "price": 10,
+    "category": "iced",
+    "image": "assets/iced-americano.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-latte",
+    "en": "Iced Latte",
+    "ar": "لاتيه مثلج",
+    "price": 13,
+    "category": "iced",
+    "image": "assets/iced-latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-spanish-latte",
+    "en": "Iced Spanish Latte",
+    "ar": "سبانيش لاتيه مثلج",
+    "price": 13,
+    "category": "iced",
+    "image": "assets/iced-spanish-latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-peanut-latte",
+    "en": "Iced Peanut Latte",
+    "ar": "لاتيه الفول السوداني المثلج",
+    "price": 15,
+    "category": "iced",
+    "image": "assets/iced-peanut-latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-caramel-latte",
+    "en": "Iced Caramel Latte",
+    "ar": "لاتيه كراميل مثلج",
+    "price": 14,
+    "category": "iced",
+    "image": "assets/iced-caramel-latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-white-mocha",
+    "en": "Iced White Mocha",
+    "ar": "موكا بيضاء مثلجة",
+    "price": 15,
+    "category": "iced",
+    "image": "assets/iced-white-mocha.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "americano-white-mocha",
+    "en": "Americano Two Pump Ice White Mocha",
+    "ar": "أمريكانو موكا بيضاء",
+    "price": 16,
+    "category": "iced",
+    "image": "assets/americano-white-mocha.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-strawberry-latte",
+    "en": "Iced Strawberry Latte",
+    "ar": "لاتيه فراولة مثلج",
+    "price": 15,
+    "category": "iced",
+    "image": "assets/iced-strawberry-latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-mocha",
+    "en": "Iced Mocha",
+    "ar": "موكا مثلجة",
+    "price": 16,
+    "category": "iced",
+    "image": "assets/iced-mocha.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "spanish-iced-mocha",
+    "en": "Spanish Iced Mocha",
+    "ar": "سبانيش موكا مثلجة",
+    "price": 17,
+    "category": "iced",
+    "image": "assets/spanish-iced-mocha.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "iced-matcha-latte",
+    "en": "Iced Matcha Latte",
+    "ar": "ماتشا لاتيه مثلج",
+    "price": 14,
+    "category": "iced",
+    "image": "assets/iced-matcha-latte.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "strawberry-sundae",
+    "en": "Strawberry Sundae",
+    "ar": "سانداي فراولة",
+    "price": 14,
+    "category": "sundae",
+    "image": "assets/strawberry-sundae.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "blueberry-sundae",
+    "en": "Blueberry Sundae",
+    "ar": "سانداي توت أزرق",
+    "price": 14,
+    "category": "sundae",
+    "image": "assets/blueberry-sundae.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "peach-sundae",
+    "en": "Peach Sundae",
+    "ar": "سانداي خوخ",
+    "price": 14,
+    "category": "sundae",
+    "image": "assets/peach-sundae.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "brown-sugar-boba-sundae",
+    "en": "Brown Sugar Boba Sundae",
+    "ar": "سانداي بوبا سكر بني",
+    "price": 16,
+    "category": "sundae",
+    "image": "assets/brown-sugar-boba-sundae.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "chocolate-oreo-sundae",
+    "en": "Chocolate Oreo Crunch Sundae",
+    "ar": "سانداي شوكولاتة أوريو",
+    "price": 16,
+    "category": "sundae",
+    "image": "assets/chocolate-oreo-sundae.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "guava-crispy-cone",
+    "en": "Guava Crispy Cone Crumble",
+    "ar": "سانداي جوافة مقرمشة",
+    "price": 15,
+    "category": "sundae",
+    "image": "assets/guava-crispy-cone.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "taro-milk-tea",
+    "en": "Brown Sugar Taro Milk",
+    "ar": "حليب تارو سكر بني",
+    "price": 18,
+    "category": "milk",
+    "image": "assets/taro-milk-tea.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "chocolate-milk-tea",
+    "en": "Brown Sugar Chocolate Milk",
+    "ar": "حليب شوكولاتة سكر بني",
+    "price": 17,
+    "category": "milk",
+    "image": "assets/chocolate-milk-tea.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "coffee-milk-tea",
+    "en": "Brown Sugar Coffee Milk",
+    "ar": "حليب قهوة سكر بني",
+    "price": 18,
+    "category": "milk",
+    "image": "assets/coffee-milk-tea.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "fresh-milk-tea",
+    "en": "Brown Sugar Fresh Milk",
+    "ar": "حليب طازج سكر بني",
+    "price": 15,
+    "category": "milk",
+    "image": "assets/fresh-milk-tea.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "black-milk-tea",
+    "en": "Brown Sugar Black Milk Tea",
+    "ar": "شاي حليب أسود سكر بني",
+    "price": 16,
+    "category": "milk",
+    "image": "assets/black-milk-tea.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "original-ice-cream",
+    "en": "Ice Cream Original Flavor",
+    "ar": "آيس كريم نكهة أصلية",
+    "price": 7,
+    "category": "icecream",
+    "image": "assets/original-ice-cream.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "matcha-ice-cream",
+    "en": "Ice Cream Matcha",
+    "ar": "آيس كريم ماتشا",
+    "price": 8,
+    "category": "icecream",
+    "image": "assets/matcha-ice-cream.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "brown-pearl",
+    "en": "Brown Pearl",
+    "ar": "لؤلؤ بني",
+    "price": 3,
+    "category": "topping",
+    "image": "assets/brown-pearl.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "pudding",
+    "en": "Pudding",
+    "ar": "بودينغ",
+    "price": 2,
+    "category": "topping",
+    "image": "assets/pudding.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "coconut-jelly",
+    "en": "Coconut Jelly",
+    "ar": "جيلي جوز الهند",
+    "price": 3,
+    "category": "topping",
+    "image": "assets/coconut-jelly.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "crystal-ball",
+    "en": "Crystal Ball",
+    "ar": "كرات كريستال",
+    "price": 2,
+    "category": "topping",
+    "image": "assets/crystal-ball.jpg",
+    "available": true,
+    "visible": true
+  },
+  {
+    "id": "crispy-crushed-cone",
+    "en": "Crispy Crushed Cone",
+    "ar": "مخروط مقرمش",
+    "price": 2,
+    "category": "topping",
+    "image": "assets/crispy-crushed-cone.jpg",
+    "available": true,
+    "visible": true
+  }
+]
